@@ -1,0 +1,10 @@
+.{
+    .name = "crmdb-cleaner",
+    .version = "0.1.0",
+    .dependencies = .{
+        .pgz = .{
+            .url = "https://github.com/ponkster/pgz/archive/refs/tags/v0.1.0-pre-beta.tar.gz",
+            .hash = "12202278fb596b5cfa1fa5834b30ce00ef0c9262b5797f95c8c3f1fc9be86853fcd5",
+        },
+    },
+}
